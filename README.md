@@ -6,13 +6,25 @@ The purpose of this analysis is to create a vacation map that allows users to ap
 
 
 ### World_Weather_Analysis
-Click here to view the analysis files: [WeatherPy.ipynb](https://github.com/vijayramcse/World_Weather_Analysis/blob/main/WeatherPy.ipynb) | [VacationPy.ipynb](https://github.com/vijayramcse/World_Weather_Analysis/blob/main/VacationPy.ipynb)
+Click here to view the analysis files: [WeatherPy.ipynb](https://github.com/vijaycse/World_Weather_Analysis/blob/master/Weather_Database/Weather_Database.ipynb) | 
 
 
 
 ### Travel_Itinerary_Analysis
+Click here to view the analysis files:[VacationItinerary.ipynb] 
+
+(https://github.com/vijaycse/World_Weather_Analysis/blob/master/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+
+Click here to view the itinerary [California vacation itinerary]: 
+
+(https://github.com/vijaycse/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+(https://github.com/vijaycse/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
 ### Vacation_Search_Analysis
+Click here to view the analysis files:[VacationPy.ipynb] (https://github.com/vijaycse/World_Weather_Analysis/blob/master/Vacation_Search/Vacation_Search.ipynb)
+
+Possible vacation locations with moderate weather: (https://github.com/vijaycse/World_Weather_Analysis/blob/master/Vacation_Search/WeatherPy_vacation_map.png)
 
